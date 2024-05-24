@@ -1,0 +1,2613 @@
+{
+    "files": [
+      {
+        "path": "src/index.html",
+        "stats": {
+          "total": 15,
+          "source": 15,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/main.server.ts",
+        "stats": {
+          "total": 7,
+          "source": 5,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/main.ts",
+        "stats": {
+          "total": 6,
+          "source": 5,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/styles.scss",
+        "stats": {
+          "total": 14,
+          "source": 10,
+          "comment": 1,
+          "single": 0,
+          "block": 1,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.component.html",
+        "stats": {
+          "total": 1,
+          "source": 1,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.component.scss",
+        "stats": {
+          "total": 1,
+          "source": 0,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.component.spec.ts",
+        "stats": {
+          "total": 24,
+          "source": 19,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.component.ts",
+        "stats": {
+          "total": 27,
+          "source": 20,
+          "comment": 2,
+          "single": 2,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.config.server.ts",
+        "stats": {
+          "total": 11,
+          "source": 9,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.config.ts",
+        "stats": {
+          "total": 10,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/app.routes.ts",
+        "stats": {
+          "total": 21,
+          "source": 20,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/register/register.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/register/register.routes.ts",
+        "stats": {
+          "total": 16,
+          "source": 14,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/register/register-create/register-create.component.html",
+        "stats": {
+          "total": 84,
+          "source": 84,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/register/register-create/register-create.component.scss",
+        "stats": {
+          "total": 44,
+          "source": 35,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 9,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/register/register-create/register-create.component.ts",
+        "stats": {
+          "total": 75,
+          "source": 67,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 8,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/match/match.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/match/match.routes.ts",
+        "stats": {
+          "total": 18,
+          "source": 14,
+          "comment": 1,
+          "single": 1,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/match/match-list/match-list.component.html",
+        "stats": {
+          "total": 38,
+          "source": 37,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/match/match-list/match-list.component.scss",
+        "stats": {
+          "total": 39,
+          "source": 33,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 6,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/match/match-list/match-list.component.ts",
+        "stats": {
+          "total": 52,
+          "source": 45,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 7,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/login/login.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/login/login.routes.ts",
+        "stats": {
+          "total": 16,
+          "source": 14,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/login/login-create/login-create.component.html",
+        "stats": {
+          "total": 57,
+          "source": 56,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/login/login-create/login-create.component.scss",
+        "stats": {
+          "total": 50,
+          "source": 40,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 10,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/login/login-create/login-create.component.ts",
+        "stats": {
+          "total": 75,
+          "source": 67,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 8,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/league/league.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/league/league.routes.ts",
+        "stats": {
+          "total": 18,
+          "source": 14,
+          "comment": 1,
+          "single": 1,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/league/league-list/league-list.component.html",
+        "stats": {
+          "total": 3,
+          "source": 3,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/league/league-list/league-list.component.scss",
+        "stats": {
+          "total": 1,
+          "source": 0,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/league/league-list/league-list.component.ts",
+        "stats": {
+          "total": 19,
+          "source": 16,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/home/home.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/home/home.routes.ts",
+        "stats": {
+          "total": 32,
+          "source": 28,
+          "comment": 1,
+          "single": 1,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/home/home-dashboard/home-dashboard.component.html",
+        "stats": {
+          "total": 44,
+          "source": 41,
+          "comment": 3,
+          "single": 0,
+          "block": 3,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/home/home-dashboard/home-dashboard.component.scss",
+        "stats": {
+          "total": 27,
+          "source": 22,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/home/home-dashboard/home-dashboard.component.ts",
+        "stats": {
+          "total": 55,
+          "source": 48,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 7,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/dashboard/dashboard.module.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/dashboard/dashboard.routes.ts",
+        "stats": {
+          "total": 18,
+          "source": 14,
+          "comment": 1,
+          "single": 1,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.html",
+        "stats": {
+          "total": 28,
+          "source": 28,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.scss",
+        "stats": {
+          "total": 3,
+          "source": 3,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.ts",
+        "stats": {
+          "total": 28,
+          "source": 24,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 4,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/styles/margin-padding/breakpoints.scss",
+        "stats": {
+          "total": 16,
+          "source": 16,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/styles/margin-padding/mixin.scss",
+        "stats": {
+          "total": 18,
+          "source": 13,
+          "comment": 2,
+          "single": 2,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/styles/grid/breakpoints.scss",
+        "stats": {
+          "total": 15,
+          "source": 10,
+          "comment": 3,
+          "single": 3,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/styles/grid/grid.scss",
+        "stats": {
+          "total": 43,
+          "source": 35,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 8,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/styles/grid/mixin.scss",
+        "stats": {
+          "total": 39,
+          "source": 30,
+          "comment": 4,
+          "single": 4,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/user/user-init.service.ts",
+        "stats": {
+          "total": 34,
+          "source": 29,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/user/user.service.ts",
+        "stats": {
+          "total": 26,
+          "source": 23,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/team/team-init.service.ts",
+        "stats": {
+          "total": 37,
+          "source": 32,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/team/team.service.ts",
+        "stats": {
+          "total": 19,
+          "source": 17,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/storage/storage.service.ts",
+        "stats": {
+          "total": 36,
+          "source": 29,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 7,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/match/match-init.service.ts",
+        "stats": {
+          "total": 54,
+          "source": 48,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 6,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/match/match.service.ts",
+        "stats": {
+          "total": 39,
+          "source": 35,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 4,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/league/calculate-league.service.ts",
+        "stats": {
+          "total": 108,
+          "source": 93,
+          "comment": 9,
+          "single": 9,
+          "block": 0,
+          "mixed": 6,
+          "empty": 12,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/league/league-init.service.ts",
+        "stats": {
+          "total": 45,
+          "source": 39,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 6,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/league/league.service.ts",
+        "stats": {
+          "total": 21,
+          "source": 17,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 4,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/init/init.service.ts",
+        "stats": {
+          "total": 37,
+          "source": 31,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 6,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/common/date-random.service.ts",
+        "stats": {
+          "total": 17,
+          "source": 12,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 5,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/base/base.service.ts",
+        "stats": {
+          "total": 37,
+          "source": 30,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 7,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/auth/auth.service.ts",
+        "stats": {
+          "total": 29,
+          "source": 21,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 8,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/auth/login.service.ts",
+        "stats": {
+          "total": 24,
+          "source": 20,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 4,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/services/auth/register.service.ts",
+        "stats": {
+          "total": 23,
+          "source": 19,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 4,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dto/login/credentials.model.ts",
+        "stats": {
+          "total": 4,
+          "source": 4,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dbo/user/user.model.ts",
+        "stats": {
+          "total": 9,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dbo/team/team.interface.ts",
+        "stats": {
+          "total": 5,
+          "source": 4,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dbo/match/match.interface.ts",
+        "stats": {
+          "total": 15,
+          "source": 13,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 2,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dbo/league/league.model.ts",
+        "stats": {
+          "total": 10,
+          "source": 9,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/models/dbo/base/base.interface.ts",
+        "stats": {
+          "total": 3,
+          "source": 3,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/guards/auth/auth.guard.ts",
+        "stats": {
+          "total": 1,
+          "source": 0,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 1,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/team-create-dialog/index.ts",
+        "stats": {
+          "total": 1,
+          "source": 1,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.html",
+        "stats": {
+          "total": 24,
+          "source": 24,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.scss",
+        "stats": {
+          "total": 3,
+          "source": 3,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.ts",
+        "stats": {
+          "total": 69,
+          "source": 54,
+          "comment": 7,
+          "single": 7,
+          "block": 0,
+          "mixed": 0,
+          "empty": 8,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/match-create-dialog/index.ts",
+        "stats": {
+          "total": 1,
+          "source": 1,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.html",
+        "stats": {
+          "total": 77,
+          "source": 77,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.scss",
+        "stats": {
+          "total": 3,
+          "source": 3,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.ts",
+        "stats": {
+          "total": 100,
+          "source": 91,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 9,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/league-table/index.ts",
+        "stats": {
+          "total": 1,
+          "source": 1,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/league-table/league-table.component.html",
+        "stats": {
+          "total": 106,
+          "source": 87,
+          "comment": 7,
+          "single": 0,
+          "block": 7,
+          "mixed": 0,
+          "empty": 12,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/league-table/league-table.component.scss",
+        "stats": {
+          "total": 5,
+          "source": 5,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/league-table/league-table.component.ts",
+        "stats": {
+          "total": 88,
+          "source": 76,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 12,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/dashboard/index.ts",
+        "stats": {
+          "total": 1,
+          "source": 1,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.html",
+        "stats": {
+          "total": 8,
+          "source": 8,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 0,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.scss",
+        "stats": {
+          "total": 14,
+          "source": 11,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 3,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      },
+      {
+        "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.ts",
+        "stats": {
+          "total": 38,
+          "source": 31,
+          "comment": 0,
+          "single": 0,
+          "block": 0,
+          "mixed": 0,
+          "empty": 7,
+          "todo": 0,
+          "blockEmpty": 0
+        },
+        "badFile": false
+      }
+    ],
+    "summary": {
+      "total": 2334,
+      "source": 2021,
+      "comment": 42,
+      "single": 31,
+      "block": 11,
+      "mixed": 6,
+      "empty": 277,
+      "todo": 0,
+      "blockEmpty": 0
+    },
+    "byExt": {
+      "html": {
+        "files": [
+          {
+            "path": "src/index.html",
+            "stats": {
+              "total": 15,
+              "source": 15,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.component.html",
+            "stats": {
+              "total": 1,
+              "source": 1,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/register/register-create/register-create.component.html",
+            "stats": {
+              "total": 84,
+              "source": 84,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/match/match-list/match-list.component.html",
+            "stats": {
+              "total": 38,
+              "source": 37,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/login/login-create/login-create.component.html",
+            "stats": {
+              "total": 57,
+              "source": 56,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/league/league-list/league-list.component.html",
+            "stats": {
+              "total": 3,
+              "source": 3,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/home/home-dashboard/home-dashboard.component.html",
+            "stats": {
+              "total": 44,
+              "source": 41,
+              "comment": 3,
+              "single": 0,
+              "block": 3,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.html",
+            "stats": {
+              "total": 28,
+              "source": 28,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.html",
+            "stats": {
+              "total": 24,
+              "source": 24,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.html",
+            "stats": {
+              "total": 77,
+              "source": 77,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/league-table/league-table.component.html",
+            "stats": {
+              "total": 106,
+              "source": 87,
+              "comment": 7,
+              "single": 0,
+              "block": 7,
+              "mixed": 0,
+              "empty": 12,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.html",
+            "stats": {
+              "total": 8,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          }
+        ],
+        "summary": {
+          "total": 485,
+          "source": 461,
+          "comment": 10,
+          "single": 0,
+          "block": 10,
+          "mixed": 0,
+          "empty": 14,
+          "todo": 0,
+          "blockEmpty": 0
+        }
+      },
+      "ts": {
+        "files": [
+          {
+            "path": "src/main.server.ts",
+            "stats": {
+              "total": 7,
+              "source": 5,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/main.ts",
+            "stats": {
+              "total": 6,
+              "source": 5,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.component.spec.ts",
+            "stats": {
+              "total": 24,
+              "source": 19,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.component.ts",
+            "stats": {
+              "total": 27,
+              "source": 20,
+              "comment": 2,
+              "single": 2,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.config.server.ts",
+            "stats": {
+              "total": 11,
+              "source": 9,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.config.ts",
+            "stats": {
+              "total": 10,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.routes.ts",
+            "stats": {
+              "total": 21,
+              "source": 20,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/register/register.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/register/register.routes.ts",
+            "stats": {
+              "total": 16,
+              "source": 14,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/register/register-create/register-create.component.ts",
+            "stats": {
+              "total": 75,
+              "source": 67,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 8,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/match/match.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/match/match.routes.ts",
+            "stats": {
+              "total": 18,
+              "source": 14,
+              "comment": 1,
+              "single": 1,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/match/match-list/match-list.component.ts",
+            "stats": {
+              "total": 52,
+              "source": 45,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 7,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/login/login.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/login/login.routes.ts",
+            "stats": {
+              "total": 16,
+              "source": 14,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/login/login-create/login-create.component.ts",
+            "stats": {
+              "total": 75,
+              "source": 67,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 8,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/league/league.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/league/league.routes.ts",
+            "stats": {
+              "total": 18,
+              "source": 14,
+              "comment": 1,
+              "single": 1,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/league/league-list/league-list.component.ts",
+            "stats": {
+              "total": 19,
+              "source": 16,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/home/home.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/home/home.routes.ts",
+            "stats": {
+              "total": 32,
+              "source": 28,
+              "comment": 1,
+              "single": 1,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/home/home-dashboard/home-dashboard.component.ts",
+            "stats": {
+              "total": 55,
+              "source": 48,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 7,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/dashboard/dashboard.module.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/dashboard/dashboard.routes.ts",
+            "stats": {
+              "total": 18,
+              "source": 14,
+              "comment": 1,
+              "single": 1,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.ts",
+            "stats": {
+              "total": 28,
+              "source": 24,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 4,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/user/user-init.service.ts",
+            "stats": {
+              "total": 34,
+              "source": 29,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/user/user.service.ts",
+            "stats": {
+              "total": 26,
+              "source": 23,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/team/team-init.service.ts",
+            "stats": {
+              "total": 37,
+              "source": 32,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/team/team.service.ts",
+            "stats": {
+              "total": 19,
+              "source": 17,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/storage/storage.service.ts",
+            "stats": {
+              "total": 36,
+              "source": 29,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 7,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/match/match-init.service.ts",
+            "stats": {
+              "total": 54,
+              "source": 48,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 6,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/match/match.service.ts",
+            "stats": {
+              "total": 39,
+              "source": 35,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 4,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/league/calculate-league.service.ts",
+            "stats": {
+              "total": 108,
+              "source": 93,
+              "comment": 9,
+              "single": 9,
+              "block": 0,
+              "mixed": 6,
+              "empty": 12,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/league/league-init.service.ts",
+            "stats": {
+              "total": 45,
+              "source": 39,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 6,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/league/league.service.ts",
+            "stats": {
+              "total": 21,
+              "source": 17,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 4,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/init/init.service.ts",
+            "stats": {
+              "total": 37,
+              "source": 31,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 6,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/common/date-random.service.ts",
+            "stats": {
+              "total": 17,
+              "source": 12,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/base/base.service.ts",
+            "stats": {
+              "total": 37,
+              "source": 30,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 7,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/auth/auth.service.ts",
+            "stats": {
+              "total": 29,
+              "source": 21,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 8,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/auth/login.service.ts",
+            "stats": {
+              "total": 24,
+              "source": 20,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 4,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/services/auth/register.service.ts",
+            "stats": {
+              "total": 23,
+              "source": 19,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 4,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dto/login/credentials.model.ts",
+            "stats": {
+              "total": 4,
+              "source": 4,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dbo/user/user.model.ts",
+            "stats": {
+              "total": 9,
+              "source": 8,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dbo/team/team.interface.ts",
+            "stats": {
+              "total": 5,
+              "source": 4,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dbo/match/match.interface.ts",
+            "stats": {
+              "total": 15,
+              "source": 13,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dbo/league/league.model.ts",
+            "stats": {
+              "total": 10,
+              "source": 9,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/models/dbo/base/base.interface.ts",
+            "stats": {
+              "total": 3,
+              "source": 3,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/guards/auth/auth.guard.ts",
+            "stats": {
+              "total": 1,
+              "source": 0,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/team-create-dialog/index.ts",
+            "stats": {
+              "total": 1,
+              "source": 1,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.ts",
+            "stats": {
+              "total": 69,
+              "source": 54,
+              "comment": 7,
+              "single": 7,
+              "block": 0,
+              "mixed": 0,
+              "empty": 8,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/match-create-dialog/index.ts",
+            "stats": {
+              "total": 1,
+              "source": 1,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.ts",
+            "stats": {
+              "total": 100,
+              "source": 91,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 9,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/league-table/index.ts",
+            "stats": {
+              "total": 1,
+              "source": 1,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/league-table/league-table.component.ts",
+            "stats": {
+              "total": 88,
+              "source": 76,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 12,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/dashboard/index.ts",
+            "stats": {
+              "total": 1,
+              "source": 1,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.ts",
+            "stats": {
+              "total": 38,
+              "source": 31,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 7,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          }
+        ],
+        "summary": {
+          "total": 1514,
+          "source": 1291,
+          "comment": 22,
+          "single": 22,
+          "block": 0,
+          "mixed": 6,
+          "empty": 207,
+          "todo": 0,
+          "blockEmpty": 0
+        }
+      },
+      "scss": {
+        "files": [
+          {
+            "path": "src/styles.scss",
+            "stats": {
+              "total": 14,
+              "source": 10,
+              "comment": 1,
+              "single": 0,
+              "block": 1,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/app.component.scss",
+            "stats": {
+              "total": 1,
+              "source": 0,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/register/register-create/register-create.component.scss",
+            "stats": {
+              "total": 44,
+              "source": 35,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 9,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/match/match-list/match-list.component.scss",
+            "stats": {
+              "total": 39,
+              "source": 33,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 6,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/login/login-create/login-create.component.scss",
+            "stats": {
+              "total": 50,
+              "source": 40,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 10,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/league/league-list/league-list.component.scss",
+            "stats": {
+              "total": 1,
+              "source": 0,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 1,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/home/home-dashboard/home-dashboard.component.scss",
+            "stats": {
+              "total": 27,
+              "source": 22,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/view/dashboard/dashboard-list/dashboard-list.component.scss",
+            "stats": {
+              "total": 3,
+              "source": 3,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/styles/margin-padding/breakpoints.scss",
+            "stats": {
+              "total": 16,
+              "source": 16,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/styles/margin-padding/mixin.scss",
+            "stats": {
+              "total": 18,
+              "source": 13,
+              "comment": 2,
+              "single": 2,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/styles/grid/breakpoints.scss",
+            "stats": {
+              "total": 15,
+              "source": 10,
+              "comment": 3,
+              "single": 3,
+              "block": 0,
+              "mixed": 0,
+              "empty": 2,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/styles/grid/grid.scss",
+            "stats": {
+              "total": 43,
+              "source": 35,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 8,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/styles/grid/mixin.scss",
+            "stats": {
+              "total": 39,
+              "source": 30,
+              "comment": 4,
+              "single": 4,
+              "block": 0,
+              "mixed": 0,
+              "empty": 5,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/team-create-dialog/team-create-dialog.component.scss",
+            "stats": {
+              "total": 3,
+              "source": 3,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/match-create-dialog/match-create-dialog.component.scss",
+            "stats": {
+              "total": 3,
+              "source": 3,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/league-table/league-table.component.scss",
+            "stats": {
+              "total": 5,
+              "source": 5,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 0,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          },
+          {
+            "path": "src/app/shared/components/dashboard/card-team-create/card-team-create.component.scss",
+            "stats": {
+              "total": 14,
+              "source": 11,
+              "comment": 0,
+              "single": 0,
+              "block": 0,
+              "mixed": 0,
+              "empty": 3,
+              "todo": 0,
+              "blockEmpty": 0
+            },
+            "badFile": false
+          }
+        ],
+        "summary": {
+          "total": 335,
+          "source": 269,
+          "comment": 10,
+          "single": 9,
+          "block": 1,
+          "mixed": 0,
+          "empty": 56,
+          "todo": 0,
+          "blockEmpty": 0
+        }
+      }
+    }
+  }
+  
