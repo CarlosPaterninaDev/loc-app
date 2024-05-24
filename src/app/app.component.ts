@@ -166,7 +166,7 @@ export class AppComponent {
     new Observable((observer: Observer<boolean>) => {
       const isJson = file.type === 'application/json';
       if (!isJson) {
-        this.msg.error('You can only upload JPG file!');
+        this.msg.error('You can only upload json file!');
         observer.complete();
         return;
       }
