@@ -24,6 +24,45 @@
     </div>
   </div>
 
+  <nz-divider nzText="Information"></nz-divider>
+
+  <div class="header">
+    <p>
+      Los valores aceptables para Líneas de Código (LOC) pueden variar
+      dependiendo del contexto del proyecto, la metodología de desarrollo
+      utilizada y los estándares de la industria. <br />Sin embargo, existen
+      algunas directrices generales para evaluar los LOC en diferentes niveles
+      del software:
+    </p>
+
+    <ul>
+      <li>
+        Clases: Una clase con menos de 200 LOC suele ser considerada manejable.
+        Las clases con más de 500 LOC pueden indicar la necesidad de
+        refactorización para mejorar la cohesión y reducir la complejidad.
+      </li>
+      <li>
+        Métodos/Funciones: Un método con menos de 50 LOC es generalmente
+        deseable. Métodos que exceden las 100 LOC pueden ser difíciles de
+        mantener y probar, sugiriendo que deberían dividirse en métodos más
+        pequeños y específicos.
+      </li>
+
+      <li>
+        Módlios: Un módlio (o archivo de código) con menos de 1000 LOC es
+        generalmente considerado manejable. Módlios que superan las 2000 LOC
+        pueden ser problemáticos y difíciles de mantener.
+        <br />
+      </li>
+
+      <li>
+        Proyectos: Para proyectos pequeños, menos de 10,000 LOC es típico.
+        Proyectos medianos pueden tener entre 10,000 y 100,000 LOC, mientras que
+        grandes proyectos empresariales pueden superar los 100,000 LOC.
+      </li>
+    </ul>
+  </div>
+
   <nz-divider nzText="Getting started"></nz-divider>
 
   <div class="header">
@@ -40,44 +79,103 @@
 
     <div>
       <table>
+        <h1>Metrics</h1>
         <tr>
-          <th>Physical</th>
+          
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número total de líneas en el archivo, incluyendo comentarios y líneas en blanco."
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Physical
+          </th>
           <td>{{ this.table.physical }}</td>
         </tr>
         <tr>
-          <th>Source</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que contienen código fuente real, es decir, excluyendo comentarios y líneas en blanco"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Source
+          </th>
           <td>{{ this.table.source }}</td>
         </tr>
         <tr>
-          <th>Comment</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número total de líneas que contienen comentarios."
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Comment
+          </th>
           <td>{{ this.table.comment }}</td>
         </tr>
         <tr>
-          <th>Single-line comment</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que contienen comentarios de una sola línea"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Single-line comment
+          </th>
           <td>{{ this.table.single }}</td>
         </tr>
         <tr>
-          <th>Block comment</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que contienen comentarios de bloque"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Block comment
+          </th>
           <td>{{ this.table.block }}</td>
         </tr>
         <tr>
-          <th>Mixed</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que contienen tanto código fuente duplicado"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Mixed
+          </th>
           <td>{{ this.table.mixed }}</td>
         </tr>
         <tr>
-          <th>Empty</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que están vacías o contienen solo espacios en blanco"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Empty
+          </th>
           <td>{{ this.table.empty }}</td>
         </tr>
         <tr>
-          <th>Block Empty</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas dentro de los comentarios de bloque que están vacías o contienen solo espacios en blanco"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Block Empty
+          </th>
           <td>{{ this.table.blockEmpty }}</td>
         </tr>
         <tr>
-          <th>To Do</th>
+          <th
+            nz-tooltip
+            nzTooltipTitle="El número de líneas que contienen comentarios de TODO"
+          >
+          <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            To Do
+          </th>
           <td>{{ this.table.todo }}</td>
         </tr>
         <tr>
-          <th>Number of files read</th>
+          <th nz-tooltip nzTooltipTitle="El número de archivos leídos">
+            <span nz-icon nzType="info-circle" nzTheme="outline"></span>
+            Number of files read
+          </th>
           <td>{{ this.listOfData.length }}</td>
         </tr>
       </table>

@@ -9,6 +9,7 @@ import { Observable, Observer } from 'rxjs';
 import { NzStepsModule } from 'ng-zorro-antd/steps';
 import { NzIconModule } from 'ng-zorro-antd/icon';
 import { NzDividerModule } from 'ng-zorro-antd/divider';
+import { NzToolTipModule } from 'ng-zorro-antd/tooltip';
 
 export interface ResponseData {
   files: File[];
@@ -42,7 +43,8 @@ export interface Summary {
     NzUploadModule,
     NzStepsModule,
     NzIconModule,
-    NzDividerModule
+    NzDividerModule,
+    NzToolTipModule,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
