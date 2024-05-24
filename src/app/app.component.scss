@@ -12,9 +12,25 @@ nz-upload{
 
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     width: 80%;
     margin: 0 auto;
 
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+a{
+    color: #333;
+
+    &:hover{
+        color: #1890ff;
+    }
 }

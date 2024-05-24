@@ -35,7 +35,6 @@
               }
             ],
             "styles": [
-              "src/theme.less",
               "src/styles.scss"
             ],
             "scripts": []
@@ -45,7 +44,7 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
+                  "maximumWarning": "1500kb",
                   "maximumError": "1mb"
                 },
                 {

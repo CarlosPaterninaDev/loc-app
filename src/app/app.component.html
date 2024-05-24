@@ -1,5 +1,32 @@
 <div class="container">
   <div class="header">
+    <div>
+      <h1>Métrica: Lines Of Code (LOC)</h1>
+
+      <p>
+        La métrica de software Lines Of Code cuenta el número de líneas de
+        código fuente de un programa. <br />Así se determina el tamaño de un
+        programa. Esta métrica se puede utilizar para estimar la carga de
+        trabajo para el desarrollo del programa, <br />la productividad de la
+        programación y el mantenimiento del software publicado.
+      </p>
+    </div>
+
+    <div>
+      <a target="_blank" href="https://github.com/CarlosPaterninaDev/loc-app">
+        <span
+          style="font-size: 36px"
+          nz-icon
+          nzType="github"
+          nzTheme="outline"
+        ></span>
+      </a>
+    </div>
+  </div>
+
+  <nz-divider nzText="Getting started"></nz-divider>
+
+  <div class="header">
     <nz-steps [nzCurrent]="current" nzDirection="vertical">
       @for (item of steps; track $index) {
       <nz-step
@@ -7,29 +34,58 @@
         nzTitle="{{ item.title }}"
         nzDescription="{{ item.description }}"
       ></nz-step>
-  
+
       }
     </nz-steps>
 
     <div>
       <table>
-        <tr><th>Physical</th><td>{{this.table.physical}}</td></tr>
-        <tr><th>Source</th><td>{{this.table.source}}</td></tr>
-        <tr><th>Comment</th><td>{{this.table.comment}}</td></tr>
-        <tr><th>Single-line comment</th><td>{{this.table.single}}</td></tr>
-        <tr><th>Block comment</th><td>{{this.table.block}}</td></tr>
-        <tr><th>Mixed</th><td>{{this.table.mixed}}</td></tr>
-        <tr><th>Empty</th><td>{{this.table.empty}}</td></tr>
-        <tr><th>Block Empty</th><td>{{this.table.blockEmpty}}</td></tr>
-        <tr><th>To Do</th><td>{{this.table.todo}}</td></tr>
-        <tr><th>Number of files read</th><td>{{this.listOfData.length}}</td></tr>
-
-    </table>`
+        <tr>
+          <th>Physical</th>
+          <td>{{ this.table.physical }}</td>
+        </tr>
+        <tr>
+          <th>Source</th>
+          <td>{{ this.table.source }}</td>
+        </tr>
+        <tr>
+          <th>Comment</th>
+          <td>{{ this.table.comment }}</td>
+        </tr>
+        <tr>
+          <th>Single-line comment</th>
+          <td>{{ this.table.single }}</td>
+        </tr>
+        <tr>
+          <th>Block comment</th>
+          <td>{{ this.table.block }}</td>
+        </tr>
+        <tr>
+          <th>Mixed</th>
+          <td>{{ this.table.mixed }}</td>
+        </tr>
+        <tr>
+          <th>Empty</th>
+          <td>{{ this.table.empty }}</td>
+        </tr>
+        <tr>
+          <th>Block Empty</th>
+          <td>{{ this.table.blockEmpty }}</td>
+        </tr>
+        <tr>
+          <th>To Do</th>
+          <td>{{ this.table.todo }}</td>
+        </tr>
+        <tr>
+          <th>Number of files read</th>
+          <td>{{ this.listOfData.length }}</td>
+        </tr>
+      </table>
+      `
     </div>
   </div>
 
-  <!-- <button (click)="getFiles()">Data</button> -->
-  <div >
+  <div class="box">
     <nz-upload
       class="avatar-uploader"
       nzAction="https://www.mocky.io/v2/5cc8019d300000980a055e76"
